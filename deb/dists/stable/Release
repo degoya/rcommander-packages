@@ -1,0 +1,28 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 07 Nov 2026 14:02:05 +0000
+Description: rCommander packages
+Label: rCommander
+Origin: rCommander
+Suite: stable
+MD5Sum:
+ ae2666c7985fb00a7ad18963e6b4adf0             3162 main/binary-amd64/Packages
+ abfa99cce5ae7489917959bd9c7c75cb             1084 main/binary-amd64/Packages.gz
+ b8d183c3716b8bde6a22531076ee66b6             3162 main/binary-arm64/Packages
+ b96c8588c90c295b152fb0da5070d5c8             1090 main/binary-arm64/Packages.gz
+SHA1:
+ a93277ea68888ff825f2bfab6e3d334654943c1f             3162 main/binary-amd64/Packages
+ bc39f8b5624ba0c449a8aed3f708fcabb7af4418             1084 main/binary-amd64/Packages.gz
+ ec0dbc6bb425de10fa8a3dde7537088b53fba7fe             3162 main/binary-arm64/Packages
+ 45a40392ebae021f8b9a0481ae2cba758198c8cb             1090 main/binary-arm64/Packages.gz
+SHA256:
+ 3f2fb1dfeb4a59f3edcbe07103f9c41798bdea8e6f87a348178e5adcd511be51             3162 main/binary-amd64/Packages
+ 8050fb3bf439adbf4db33b26ef9772f3bd3b94898a60d742487672b894e42bd7             1084 main/binary-amd64/Packages.gz
+ 151b2aec3706253a6f21341b90a2ecc0dcc513cbcb6d009bacbeaa2aee9e954c             3162 main/binary-arm64/Packages
+ 5d2fde5ed0fc7b5788959c90c26651121c046e80b3907ced053fb166692e53c4             1090 main/binary-arm64/Packages.gz
+SHA512:
+ 526b3868487bfeee1900e8f3ed5a495960eb37ac974ec95d7771d4adced12ebde45aa373d9fa7089c48344e4866bef17f3187043e06da5be3fa7e0a6c9095d0f             3162 main/binary-amd64/Packages
+ 79001b68474b30bd16af28df3844b2bfc3b212c26d9dcc77ec7a3fc521283852a78dc6c6037709cab1a41b207f9f631da68660ffef6f74cf556f189ee92edec4             1084 main/binary-amd64/Packages.gz
+ 95893e8b86a523e5b8156c6cbddacb25be0c31d6a6eb8497c5ecf8b1d1e090abb50b94a1b98905cde8e3395d0c419be252d1f2f16b41bfbcae4f0f5ab674bc51             3162 main/binary-arm64/Packages
+ 28986a75fe4a8c31c639f8f404eed26a8ea0ac055cf9ae170a571333e7752d8e96c8c2ab6ff54fdd4687c2c56e55acbe398e4aad3dee968ae8f6af815501045a             1090 main/binary-arm64/Packages.gz
