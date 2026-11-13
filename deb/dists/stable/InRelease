@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Fri, 13 Nov 2026 19:16:28 +0000
+Description: rCommander packages
+Label: rCommander
+Origin: rCommander
+Suite: stable
+MD5Sum:
+ 896a49a303d2078ed8b1823be2f75862             3165 main/binary-amd64/Packages
+ 401a6b51459bb78e0b2b9ffa93e7f801             1086 main/binary-amd64/Packages.gz
+ 2a2acce38712a82ab68a41ff962a7941             3162 main/binary-arm64/Packages
+ b490f840a62124dbab52557445e0c271             1081 main/binary-arm64/Packages.gz
+SHA1:
+ 2bb501c08ce630e2991579a71478b92f2b45765a             3165 main/binary-amd64/Packages
+ fca13d36b58f112b9b37653cd6501589cc8d3b28             1086 main/binary-amd64/Packages.gz
+ 6be5f85fa3dc289e9e8a2ea5e0e62fb19ce8b080             3162 main/binary-arm64/Packages
+ 0e70e14415287e15f2efdb5651913fe9a811e6cc             1081 main/binary-arm64/Packages.gz
+SHA256:
+ 50fa4e8bab11292c2dc5c91a18f4bb91638d52f17282629686b92665cf4949bb             3165 main/binary-amd64/Packages
+ 91f4371d74ebf8a574659d8c5095978f5730be6f6a8ca73ef0ef345cfd4a342f             1086 main/binary-amd64/Packages.gz
+ 3f1424517e19e397e831c5c0c5ea161b5a4143930ac559e5e584570297365596             3162 main/binary-arm64/Packages
+ 55c67fe54cc65c7cbb903730585c3420e81e33e2f34f8346f3c38a4bd0c8ea37             1081 main/binary-arm64/Packages.gz
+SHA512:
+ 370f7c127949adb468f7d936c98324a0ffb86a4bf06af1477b00255a97ab5af6918e879e555def11d70bb4792b14a794a85291e7e1db4f401acca2dd2f4f1fe3             3165 main/binary-amd64/Packages
+ 9e71a1a9da6e9c5329c23c3c04374f9feab8c5c9665435fd220e1b28ff526ac4b7d4c77f1522c0bd64884124d1fa3c939699283f1ba145ee055339ab963f63d3             1086 main/binary-amd64/Packages.gz
+ c442a0cf66de993c0b4d1916fee452c1f07f8717b4bd32c9a1139039fc81cfa7bfc3cb904bd99348b6369f4d81c6c9d0c2b71324d0df80aeb1db74aa4552bb21             3162 main/binary-arm64/Packages
+ 405376e5432ce159ef1d5cbcbfa6a7bdfb26704f74f19a33d2b711273d291b4928b4ce7b7a365cb66b2721794a4b97562962b43afb67ced04ffda6c2b60724af             1081 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEVsz/2mScwWVHNYhQSPFtgfRMuH4FAmr3YgwACgkQSPFtgfRM
+uH711A/+LLR94R27icVRzXnJpBx2B6xLx1YuTkJVd70rDXBx/5cVvMHOv8ZE5uFy
+eUBYT1o5ruIPL9B5mkSOmQJgpcYTe08YkPMM/NaS96OUXRv6np5F+6uBPJJ/+Xn3
+OCXt6dzy+86OK6RurfMxtVZC8T0s+JpfvhjqLG96vD52d7QkhwEo6LrFJKhRpjaW
+YHzlQCocX7Pi/5iC0SI3np3MbfXWA6zQgqyfqcW47VepGKin+7wMFOPeXrv8iLF4
+D4PI84lZVxrrKcmTZOa6Zvb5oOaA9tAlazakqxYpyPeWqd7jNT3X9vW0GQnJlFad
+fPnaYTVlmHpMsATSevgctniYKuzCNm0+hc44Ky4gBMuKAJazzhWuDElLDGaGbSTr
+9puL9bIZ8gukSFM8wg+mLDhzsIKYkB22C2GtcZnqXau+r7D2AFKHcmf+t77kRrwT
+4gTQCUIFb1cTHxiepomCph6tiwTh3lparYXDWTTAszDx6wPqDDA+f4HeSWSRz2NE
+L6MLilasOJYy4EUgF/mcwMpNoRm9CkQQS2Ugd2R9TaG2f4KGQnSeF3vpLSc0ERNj
+m/4WCJHCOHlJ2qV9nvysRnVEbHlxdHifiNTYQPXHZZIw8bpH6zWoIChQ/iQ2jZGk
+aPHbNi9htsEa15yQFuoY8tr6zaR+dGBQczLrsbAg+vhV7Zsr5e8=
+=nHnD
+-----END PGP SIGNATURE-----

@@ -1,0 +1,63 @@
+Package: rcommander
+Architecture: amd64
+Version: 0.21.0
+Priority: optional
+Section: utils
+Maintainer: DEGOYA.digital
+Installed-Size: 103361
+Depends: libc6 (>= 2.39), libgcc-s1, libxkbcommon0
+Recommends: libx11-6, libx11-xcb1, libxcursor1, libxi6, libxkbcommon-x11-0, libwayland-client0, libwayland-egl1, libegl1, libvulkan1
+Filename: pool/main/r/rcommander/rcommander_0.21.0_amd64.deb
+Size: 45654492
+MD5sum: 72d394d475d930f41fff000cc008c61e
+SHA1: c40efff346ef59e6ba2684a2258f5b96bf66f71c
+SHA256: bf6dda3aa444442364ca13e23fd06e6c1e8499d538d1932f870af541577dec05
+SHA512: 4894eb913b03ed1dc955c9c008120192d9c876d5cbabae8718c378d90b743b6b1297aa53185f0a7f6195f0123728b3b02c7649ecacec849b3121911e5c1211b4
+Homepage: https://rcommander.net
+Description: Two-panel file manager with terminals, SSH and SFTP
+ rCommander is a two-panel file manager in the tradition of Total Commander. Each panel shows
+ a file list or a terminal; SSH servers sit in the drive bar, files are copied over SFTP and
+ FTP/FTPS, and a built-in MCP server offers every action to AI agents.
+
+Package: rcommander
+Architecture: amd64
+Version: 0.22.0
+Priority: optional
+Section: utils
+Maintainer: DEGOYA.digital
+Installed-Size: 103418
+Depends: libc6 (>= 2.39), libgcc-s1, libxkbcommon0
+Recommends: libx11-6, libx11-xcb1, libxcursor1, libxi6, libxkbcommon-x11-0, libwayland-client0, libwayland-egl1, libegl1, libvulkan1
+Filename: pool/main/r/rcommander/rcommander_0.22.0_amd64.deb
+Size: 45679840
+MD5sum: e4eff925619af14b851bc27e5c27b4f9
+SHA1: 4b846c98470c960da32199ef5b1e928df3d8be48
+SHA256: aae4c3f04a2d67b087f11611c48b0fe244835dd880f3731d14a7383d12e61650
+SHA512: 43e957f393d0ae327d255513f236ee0671f9ea48c07c9ef4134699c5d167e5b128581cd3f75f5aab6b2a09f2e3b58676e29563f79be6dfc77a8a4ec88f9f3575
+Homepage: https://rcommander.net
+Description: Two-panel file manager with terminals, SSH and SFTP
+ rCommander is a two-panel file manager in the tradition of Total Commander. Each panel shows
+ a file list or a terminal; SSH servers sit in the drive bar, files are copied over SFTP and
+ FTP/FTPS, and a built-in MCP server offers every action to AI agents.
+
+Package: rcommander
+Architecture: amd64
+Version: 0.23.1
+Priority: optional
+Section: utils
+Maintainer: DEGOYA.digital
+Installed-Size: 103569
+Depends: libc6 (>= 2.39), libgcc-s1, libxkbcommon0
+Recommends: libx11-6, libx11-xcb1, libxcursor1, libxi6, libxkbcommon-x11-0, libwayland-client0, libwayland-egl1, libegl1, libvulkan1
+Filename: pool/main/r/rcommander/rcommander_0.23.1_amd64.deb
+Size: 45749094
+MD5sum: b34ce355b3fbe7614792c3fe1ff70bac
+SHA1: ec6207855f5e2f664f8f8b7097ff96f1bbfd4ec5
+SHA256: e593efe631aaee575b7b490f85a56401f46d3a0de8715545d75601507f94832e
+SHA512: dc5dbec38ae663e07bb1267c8d1f36f54f24c7f05eef60cf161702bd6e1a50637662c888a58614f447823a6e6cc50ef053cbd3f31d558a634ab241c1e7aea118
+Homepage: https://rcommander.net
+Description: Two-panel file manager with terminals, SSH and SFTP
+ rCommander is a two-panel file manager in the tradition of Total Commander. Each panel shows
+ a file list or a terminal; SSH servers sit in the drive bar, files are copied over SFTP and
+ FTP/FTPS, and a built-in MCP server offers every action to AI agents.
+
