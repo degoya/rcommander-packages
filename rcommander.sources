@@ -1,0 +1,8 @@
+# rCommander for apt (Debian, Ubuntu): /etc/apt/sources.list.d/rcommander.sources
+# The key: /etc/apt/keyrings/rcommander-packages.asc from https://degoya.github.io/rcommander-packages/rcommander-packages.asc
+# (fingerprint 56CCFFDA649CC1654735885048F16D81F44CB87E).
+Types: deb
+URIs: https://degoya.github.io/rcommander-packages/deb
+Suites: stable
+Components: main
+Signed-By: /etc/apt/keyrings/rcommander-packages.asc
